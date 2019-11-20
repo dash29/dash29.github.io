@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Sihui</strong> Dai
+title: <strong>Sihui  Dai</strong> (戴思汇)
 description: California Institute of Technology
 
 profile:
