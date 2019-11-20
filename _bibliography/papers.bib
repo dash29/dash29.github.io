@@ -1,0 +1,20 @@
+---
+---
+
+@string{aps = {American Physical Society,}}
+
+@article{huang2019brain,
+  title={Brain-inspired Robust Vision using Convolutional Neural Networks with Feedback},
+  author={Huang, Yujia and Dai, Sihui and Nguyen, Tan and Bao, Pinglei and Tsao, Doris and Baraniuk, Richard G and Anandkumar, Anima},
+  publisher = "Conference on Neural Information Processing Systems NeuroAI Workshop",
+  year={2019},
+  abstract="Humans have the remarkable ability to correctly classify images despite possible degradation. Many studies have suggested that this hallmark of human vision results from the interaction between feedforward signals from bottom-up pathways of the visual cortex and feedback signals provided by top-down pathways. Motivated by such interaction, we propose a new neuro-inspired model, namely Convolutional Neural Networks with Feedback (CNN-F). CNN-F extends CNN with a feedback generative network, combining bottom-up and top-down inference to perform approximate loopy belief propagation.  We show that CNN-F's iterative inference allows for disentanglement of latent variables across layers. We validate the advantages of CNN-F over the baseline CNN. Our experimental results suggest that the CNN-F is more robust to image degradation such as pixel noise, occlusion, and blur.  Furthermore, we show that the CNN-F is capable of restoring original images from the degraded ones with high reconstruction accuracy while introducing negligible artifacts."
+}
+
+@article{huang2019out,
+  title={Out-of-Distribution Detection Using Neural Rendering Generative Models},
+  author={Huang, Yujia and Dai, Sihui and Nguyen, Tan and Baraniuk, Richard G and Anandkumar, Anima},
+  journal={arXiv preprint arXiv:1907.04572},
+  year={2019},
+  abstract="Out-of-distribution (OoD) detection is a natural downstream task for deep generative models, due to their ability to learn the input probability distribution. There are mainly two classes of approaches for OoD detection using deep generative models, viz., based on likelihood measure and the reconstruction loss. However, both approaches are unable to carry out OoD detection effectively, especially when the OoD samples have smaller variance than the training samples. For instance, both flow based and VAE models assign higher likelihood to images from SVHN when trained on CIFAR-10 images. We use a recently proposed generative model known as neural rendering model (NRM) and derive metrics for OoD. We show that NRM unifies both approaches since it provides a likelihood estimate and also carries out reconstruction in each layer of the neural network. Among various measures, we found the joint likelihood of latent variables to be the most effective one for OoD detection. Our results show that when trained on CIFAR-10, lower likelihood (of latent variables) is assigned to SVHN images. Additionally, we show that this metric is consistent across other OoD datasets. To the best of our knowledge, this is the first work to show consistently lower likelihood for OoD data with smaller variance with deep generative models. "
+}
