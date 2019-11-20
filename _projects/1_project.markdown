@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: CNNs with Feedback
+description: Improving CNNs by appending a corresponding generative network
 img: /assets/img/12.jpg
 ---
 

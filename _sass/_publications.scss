@@ -29,7 +29,8 @@
         .title { font-weight: bolder; }
         .author {
             a {
-                border-bottom: 1px dashed $theme-color;
+                color: grey;
+                border-bottom: 1px dashed grey;
                 &:hover {
                     border-bottom-style: solid;
                     text-decoration: none;
