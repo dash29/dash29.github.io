@@ -18,7 +18,7 @@ while [[ $# > 0 ]]; do
         exit 0
         ;;
         -u|--user)
-        SRC_BRANCH="source"
+        SRC_BRANCH="Jekyll"
         DEPLOY_BRANCH="master"
         shift
         ;;
