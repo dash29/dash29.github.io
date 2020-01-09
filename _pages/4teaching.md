@@ -5,7 +5,7 @@ title: teaching
 description: Courses that I have TAed
 ---
 ### Caltech
-[CS 165 Foundations in Machine Learning and Statistical Inference](http://tensorlab.cms.caltech.edu/users/anima/cs165.html) (Spring 2019)
+[CS 165 Foundations in Machine Learning and Statistical Inference](http://tensorlab.cms.caltech.edu/users/anima/cms165-2020.html) (Winter 2020)
 
 [CS 156 Learning Systems](http://cs156.caltech.edu/) (Fall 2019)
 
