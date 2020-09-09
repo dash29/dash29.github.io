@@ -2,15 +2,15 @@
 layout: about
 permalink: /
 title: <strong>Sihui</strong>  Dai
-description: California Institute of Technology
+description: Princeton University
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: sdai@caltech.edu
+  address: sihuid@princeton.edu
   
 news: false
 social: true
 ---
 
-I am a fourth year undergraduate student at Caltech in Computer Science and Information and Data Sciences.  I am a member of [Dr. Anima Anandkumar's](http://tensorlab.cms.caltech.edu/users/anima/) group. My research interests are centered around solving problems in machine learning which arise from training with limited data including generalization, fairness, robustness, domain adaptation, and few-shot learning.
+I am a first year PhD student at Princeton in Electrical Engineering.  During my undergrad, I was a member of [Dr. Anima Anandkumar's](http://tensorlab.cms.caltech.edu/users/anima/) group. My research interests are centered around ML robustness.
