@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses that I have TAed
+description: 
 ---
 ### Caltech
 [CS 165 Foundations in Machine Learning and Statistical Inference](http://tensorlab.cms.caltech.edu/users/anima/cms165-2020.html) (Winter 2020)
